@@ -383,7 +383,7 @@ getMatrixElementsSum(matrix) => 9
 ```
 const matrix = [
  [true, false, false],
- [false, true, false],
+  [false, true, false],
  [false, false, false]
 ];
 
